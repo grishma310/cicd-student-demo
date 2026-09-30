@@ -9,3 +9,4 @@ if __name__ == "__main__":
     mark = 65
     print("Student Mark:", mark)
     print("Result:", calculate_result(mark))
+# CI-CD pipeline verification
